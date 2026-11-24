@@ -1,0 +1,7 @@
+{
+  "name": "Malaysian Media Intelligence Platform",
+  "description": "Comprehensive AI-powered media intelligence platform for the Malaysian market with event-driven architecture simulation, sentiment analysis, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
